@@ -5,7 +5,8 @@
 - Curso Ciência da Computação na Universidade Federal de Santa Maria(UFSM)
 - Interesses atuais:  
   - Programação Competitiva 
-  - Desenvolvimento em C, C++, C#, Go e Python
+  - Desenvolvimento em C, C++
+  - Programação Paralela
 
 ---
 
