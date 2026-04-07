@@ -10,6 +10,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Programação Competitiva-E05E30?style=flat"/>
   <img src="https://img.shields.io/badge/Programação Paralela-6E40C9?style=flat"/>
+  <img src="https://img.shields.io/badge/IA-222222?style=flat"/>
+  <img src="https://img.shields.io/badge/Cibersegurança-36C94C?style=flat"/>
+  <img src="https://img.shields.io/badge/Videogames-1240C9?style=flat"/>
 </p>
 
 ---
@@ -28,7 +31,7 @@
 ---
 
 ## Conquistas
-- ★ **Maratona SBC/ICPC 2025** — Competidor nas Fases 0 e 1
+- **Maratona SBC/ICPC 2025** — Competidor nas Fases 0 e 1
 
 ---
 
