@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/IA-222222?style=flat"/>
   <img src="https://img.shields.io/badge/Cibersegurança-36C94C?style=flat"/>
   <img src="https://img.shields.io/badge/Videogames-1240C9?style=flat"/>
+  <img src="https://img.shields.io/badge/Simulações-444444?style=flat"/>
+  <img src="https://img.shields.io/badge/Realidade Virtual-00AED8?style=flat"/>
 </p>
 
 ---
