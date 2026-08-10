@@ -36,6 +36,7 @@
 ## Coisas que fiz
 - **Maratona SBC/ICPC 2025** — Competidor nas Fases 0 e 1
 - **ERAD-RS 2026** — Participante Voluntário
+- **Monitoria** — Maratona de Programação
 
 ---
 
