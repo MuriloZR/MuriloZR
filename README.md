@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-1240C9?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Fedora-FFFFFF?logo=fedora"/>
+  <img src="https://img.shields.io/badge/RHEL-red?style=flat&logo=redhat"/>
   <img src="https://img.shields.io/badge/Nix/NixOS-FFFFFF?logo=nixos"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
