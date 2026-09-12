@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Programação Competitiva-E05E30?style=flat"/>
   <img src="https://img.shields.io/badge/HPC-6E40C9?style=flat"/>
   <img src="https://img.shields.io/badge/Computação Gráfica-00AED8?style=flat"/>
-  <img src="https://img.shields.io/badge/Videogames-1240C9?style=flat"/>
   <img src="https://img.shields.io/badge/Cibersegurança-36C94C?style=flat"/>
-  <img src="https://img.shields.io/badge/Simulações-444444?style=flat"/>
 </p>
 
 ---
@@ -23,6 +21,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-9D00FF?logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-1240C9?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -30,14 +29,17 @@
   <img src="https://img.shields.io/badge/Nix/NixOS-FFFFFF?logo=nixos"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FF5C00?style=flat&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-181717?style=flat&logo=unity&logoColor=white"/>
 </p>
 
 ---
 
 ## Coisas que fiz
 - **Maratona SBC/ICPC 2025** — Competidor nas Fases 0 e 1
-- **Integrante de Projetos** — Projeto de Extensão: Maratona de Programação e OBI
+- **Projeto de Extensão** — Maratona de Programação e OBI
 - **ERAD-RS 2026** — Participante Voluntário
 - **Monitoria** — Disciplina de Maratona de Programação
 - **Maratona SBC/ICPC 2026** — Competidor na Fase 1
+- **Bolsista** — Projeto SIS-ASTROS
