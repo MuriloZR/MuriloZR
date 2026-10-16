@@ -42,4 +42,5 @@
 - **ERAD-RS 2026** — Participante Voluntário
 - **Monitoria** — Disciplina de Maratona de Programação
 - **Maratona SBC/ICPC 2026** — Competidor na Fase 1
-- **Bolsista** — Projeto SIS-ASTROS
+- **Bolsista** — Desenvolvedor no projeto SIS-ASTROS
+- **Maratona de SQL SAINF 2026** - Competidor
